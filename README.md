@@ -4,7 +4,7 @@
 
 <html>
 <body>
-  <h2>Register for The USAWOA Sooner Plains 2nd Annual Dining-In</h2>
+  <h2>Pay & Register for The USAWOA Sooner Plains 2nd Annual Dining-In</h2>
  <p>Doors Open for Happy Hour at 1700 / Dinner will start at 1800</p>
  <p>Location: American Legion Post 73   5000 SE 24th St. Oklahoma City, OK 73115</p>
  <h2>$40 per Ticket</h2>
